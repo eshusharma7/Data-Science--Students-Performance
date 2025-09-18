@@ -38,7 +38,7 @@ An interactive Tableau Dashboard was built for clear visualization and insights.
 ├── README.md                                 # Project documentation
 
 🚀 How to Use
-Clone this repository: git clone https://github.com/your-username/students-performance-dashboard.git
+Clone this repository: https://github.com/eshusharma7/Data-Science--Students-Performance/raw/refs/heads/main/Eshu_Assessment.twbx
 
 1. Open Students_Performance using Tableau.twbx in Tableau Desktop.
 2. Explore the interactive dashboard via Students_Performance1.html.
