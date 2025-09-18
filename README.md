@@ -1,11 +1,12 @@
 Students Performance Analysis using Tableau
 
-📌 Project Overview
+📌 Project Overview:
+
 This project analyzes student performance dataset (math, reading, writing scores) using Tableau.
 The goal is to explore how demographic factors (gender, lunch type, parental education, and test preparation) influence academic outcomes.
 An interactive Tableau Dashboard was built for clear visualization and insights.
 
-🎯 KPI Requirements
+🎯 KPI Requirements:
 
 1. Total Students: Count of students in the dataset.
 2. Average Scores: Mean of math, reading, and writing scores.
