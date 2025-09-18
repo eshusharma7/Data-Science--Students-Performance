@@ -1,4 +1,5 @@
 Students Performance Analysis using Tableau
+
 📌 Project Overview
 This project analyzes student performance dataset (math, reading, writing scores) using Tableau.
 The goal is to explore how demographic factors (gender, lunch type, parental education, and test preparation) influence academic outcomes.
